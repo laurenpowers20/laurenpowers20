@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lauren
-- 👀 I’m interested in learning to code!
-- 🌱 I’m currently learning ... about refreshing my knowledge and developing new skills
+- 👀 I’m interested in building awesome web applications!
+- 🌱 I’m currently learning ... back end development!
 - 📫 How to reach me ... lauren.powers86@yahoo.com
 
 <!---
