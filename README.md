@@ -4,14 +4,14 @@ laurenpowers20/laurenpowers20 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-👋 Hi, I’m Lauren!
+
 **`Software Engineer`** 
 ---
 
 [![Porfolio](https://img.shields.io/badge/Portfolio-5e5e5e?style=for-the-badge)](https://laurenpowersportfolio.com/) [![Lauren's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauren-powers20/) 
 
 ##### Thanks for stopping by!
-
+👋 Hi, I’m Lauren!
 
 
 #### Languages and Tools
