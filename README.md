@@ -13,6 +13,10 @@ You can click the Preview link to take a look at your changes.
 ##### Thanks for stopping by!
 👋 Hi, I’m Lauren!
 
+Hi there! My name is Lauren and I am an engineer based in New York City. My professional background lies in financial operations, where I spent 12 years at JP Morgan Chase. During my tenure there, I steadily progressed within the firm and eventually became the manager of one of its largest branches in NYC. However, when my time in banking came to an end, I saw an opportunity to pursue my passion for building and hands-on work. I’m one of those rare people who love putting Ikea furniture together and “figuring it all out!” I was inspired by my friends who had completed Software Engineering Immersive programs and were thriving in their roles.
+
+In the summer of 2022, I began teaching myself JavaScript and coding simple projects. In September, I enrolled in General Assembly's Software Engineering Immersive program, where I worked on both front-end and back-end projects every week. Throughout this journey, I've embraced challenges and pushed myself beyond my comfort zone. It's been a wild ride, and I am confident in my abilities and excited to continue learning and growing in my career.
+
 
 #### Languages and Tools
 
