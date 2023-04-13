@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-**`Software Engineer`** 
+**`Web Developer | Software Engineer`** 
 ---
 
 [![Porfolio](https://img.shields.io/badge/Portfolio-5e5e5e?style=for-the-badge)](https://laurenpowersportfolio.com/) [![Lauren's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauren-powers20/) 
